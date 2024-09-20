@@ -1,0 +1,23 @@
+@import "src/colors.scss";
+
+.Button {
+  background: $primary;
+  background: linear-gradient(
+    100deg,
+    rgb(63, 98, 255) 0%,
+    rgb(63, 98, 255) 100%
+  );
+  height: 80px;
+  min-width: 210px;
+  border: none;
+  color: white;
+  font-size: 16pt;
+  &:hover {
+    background: linear-gradient(
+      100deg,
+    $primary 0%,
+    $primary 100%
+    );
+    cursor: pointer;
+  }
+}

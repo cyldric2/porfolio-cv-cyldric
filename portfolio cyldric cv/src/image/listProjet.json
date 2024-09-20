@@ -1,0 +1,58 @@
+[
+   {
+		"id":1,
+        "type": "html",
+		"title": "Riding Cities",
+		"pictures": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+        "lienGit":"https://github.com/cyldric2/projet-2.git",
+		"description": " Ce projet est mon introduction aux fondamentaux du langage HTML  J ai travailler sur la mise à jour de la page web d’une association en intégrant de nouveaux éléments conformément aux maquettes fournies. Ma tâche principale était de créer une nouvelle section sur la page web de l'association. Je devait également ajouter un titre et deux boutons pour le téléchargement de plannings.Ce travail me permettra de me familiariser avec l'ajout et la structuration d'éléments en HTML. Bien que le CSS soit déjà présent dans le code, j ai appris à intégrer et adapter ces styles à la nouvelle section que j ai créer.Cela m a  donner une compréhension de base de la manière dont HTML et CSS travaillent ensemble pour créer des pages web.J ai  utilisé Figma pour accéder aux maquettes et Visual Studio Code comme environnement de développement, pour me familiarisait ainsi avec des outils essentiels de développement front-end."
+    },
+	{
+		"id":2,
+        "type": ["html","css"],
+		"title": "booki",
+		"pictures": 
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+            "lienGit":"https://github.com/cyldric2/booki.git",
+		"description": "Dans ce projet, j ai Créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.ma mission principale sera d'intégrer l'interface responsive de leur site.J ai eu à disposition les maquettes Figma pour mobile, tablette et desktop, ainsi que les images et une note de synthèse sur les spécificités du projet.Jai été amener à créer mes propres composants d'interface avec HTML et CSS afin d'avoir un rendu correspondant à la maquetteCela ma donnais une compréhension plus profonde de la manière dont le code est structuré et stylisé pour répondre aux exigences de design. En travaillant sur ce projet, j ai développer des compétences essentielles en design responsive, assurant que la page d'accueil fonctionne bien sur tous les appareils et tailles d'écran."
+    },
+
+	{
+		"id":3,
+        "type": "java",
+		"title": "Appartement ",
+		"pictures": 
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+		"lienGit":"",
+		"description": "Ce projet vous amène à travailler sur l'interface mobile-first du site d’une start-up. Vous utiliserez Sass, implémenterez des animations CSS et versionnerez votre projet avec Git et GitHub.Votre tâche principale sera d'intégrer une maquette en mobile-first. Vous disposerez des maquettes pour mobile et desktop, du prototype sur Figma, ainsi que des images et textes nécessaires. Cette approche mobile-first vous permettra de comprendre l'importance de concevoir des sites web adaptatifs et réactifs.Vous apprendrez à mettre en œuvre des animations CSS pour enrichir l'expérience utilisateur du site. Ces animations donneront vie à l'interface et rendront la navigation plus interactive et engageante.L'utilisation de SASS, un pré-processeur CSS, sera essentielle pour étendre les fonctionnalités de base du CSS. Cela vous aidera à écrire des styles plus organisés et maintenables.Enfin, vous versionnerez votre projet avec Git et GitHub, vous familiarisant ainsi avec ces outils essentiels pour la gestion et la collaboration sur des projets de développement web."
+    },
+	{
+		"id":4,
+        "type": "html",
+		"title": "Riding Cities",
+		"pictures": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+        "lienGit":"https://github.com/cyldric2/projet-2.git",
+		"description": " Ce projet est mon introduction aux fondamentaux du langage HTML  J ai travailler sur la mise à jour de la page web d’une association en intégrant de nouveaux éléments conformément aux maquettes fournies. Ma tâche principale était de créer une nouvelle section sur la page web de l'association. Je devait également ajouter un titre et deux boutons pour le téléchargement de plannings.Ce travail me permettra de me familiariser avec l'ajout et la structuration d'éléments en HTML. Bien que le CSS soit déjà présent dans le code, j ai appris à intégrer et adapter ces styles à la nouvelle section que j ai créer.Cela m a  donner une compréhension de base de la manière dont HTML et CSS travaillent ensemble pour créer des pages web.J ai  utilisé Figma pour accéder aux maquettes et Visual Studio Code comme environnement de développement, pour me familiarisait ainsi avec des outils essentiels de développement front-end."
+    },
+	{
+		"id":5,
+        "type": ["html","css"],
+		"title": "booki",
+		"pictures": 
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+            "lienGit":"https://github.com/cyldric2/booki.git",
+		"description": "Dans ce projet, j ai Créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.ma mission principale sera d'intégrer l'interface responsive de leur site.J ai eu à disposition les maquettes Figma pour mobile, tablette et desktop, ainsi que les images et une note de synthèse sur les spécificités du projet.Jai été amener à créer mes propres composants d'interface avec HTML et CSS afin d'avoir un rendu correspondant à la maquetteCela ma donnais une compréhension plus profonde de la manière dont le code est structuré et stylisé pour répondre aux exigences de design. En travaillant sur ce projet, j ai développer des compétences essentielles en design responsive, assurant que la page d'accueil fonctionne bien sur tous les appareils et tailles d'écran."
+    },
+
+	{
+		"id":6,
+        "type": "java",
+		"title": "Appartement ",
+		"pictures": 
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+		"lienGit":"",
+		"description": "Ce projet vous amène à travailler sur l'interface mobile-first du site d’une start-up. Vous utiliserez Sass, implémenterez des animations CSS et versionnerez votre projet avec Git et GitHub.Votre tâche principale sera d'intégrer une maquette en mobile-first. Vous disposerez des maquettes pour mobile et desktop, du prototype sur Figma, ainsi que des images et textes nécessaires. Cette approche mobile-first vous permettra de comprendre l'importance de concevoir des sites web adaptatifs et réactifs.Vous apprendrez à mettre en œuvre des animations CSS pour enrichir l'expérience utilisateur du site. Ces animations donneront vie à l'interface et rendront la navigation plus interactive et engageante.L'utilisation de SASS, un pré-processeur CSS, sera essentielle pour étendre les fonctionnalités de base du CSS. Cela vous aidera à écrire des styles plus organisés et maintenables.Enfin, vous versionnerez votre projet avec Git et GitHub, vous familiarisant ainsi avec ces outils essentiels pour la gestion et la collaboration sur des projets de développement web."
+    }
+	 
+
+]
