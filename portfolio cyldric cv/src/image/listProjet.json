@@ -1,9 +1,9 @@
 [
    {
 		"id":1,
-        "type": "html",
+        "type": ["html"],
 		"title": "Riding Cities",
-		"pictures": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+		"pictures": "./riding cities.png",
         "lienGit":"https://github.com/cyldric2/projet-2.git",
 		"description": " Ce projet est mon introduction aux fondamentaux du langage HTML  J ai travailler sur la mise à jour de la page web d’une association en intégrant de nouveaux éléments conformément aux maquettes fournies. Ma tâche principale était de créer une nouvelle section sur la page web de l'association. Je devait également ajouter un titre et deux boutons pour le téléchargement de plannings.Ce travail me permettra de me familiariser avec l'ajout et la structuration d'éléments en HTML. Bien que le CSS soit déjà présent dans le code, j ai appris à intégrer et adapter ces styles à la nouvelle section que j ai créer.Cela m a  donner une compréhension de base de la manière dont HTML et CSS travaillent ensemble pour créer des pages web.J ai  utilisé Figma pour accéder aux maquettes et Visual Studio Code comme environnement de développement, pour me familiarisait ainsi avec des outils essentiels de développement front-end."
     },
@@ -19,40 +19,59 @@
 
 	{
 		"id":3,
-        "type": "java",
-		"title": "Appartement ",
+        "type": ["html","css"],
+		"title": "Ohmyfood ",
 		"pictures": 
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-		"lienGit":"",
-		"description": "Ce projet vous amène à travailler sur l'interface mobile-first du site d’une start-up. Vous utiliserez Sass, implémenterez des animations CSS et versionnerez votre projet avec Git et GitHub.Votre tâche principale sera d'intégrer une maquette en mobile-first. Vous disposerez des maquettes pour mobile et desktop, du prototype sur Figma, ainsi que des images et textes nécessaires. Cette approche mobile-first vous permettra de comprendre l'importance de concevoir des sites web adaptatifs et réactifs.Vous apprendrez à mettre en œuvre des animations CSS pour enrichir l'expérience utilisateur du site. Ces animations donneront vie à l'interface et rendront la navigation plus interactive et engageante.L'utilisation de SASS, un pré-processeur CSS, sera essentielle pour étendre les fonctionnalités de base du CSS. Cela vous aidera à écrire des styles plus organisés et maintenables.Enfin, vous versionnerez votre projet avec Git et GitHub, vous familiarisant ainsi avec ces outils essentiels pour la gestion et la collaboration sur des projets de développement web."
+		"lienGit":"https://github.com/cyldric2/site-Ohmyfood.git",
+		"description": "Ce projet m'a amener à travailler sur l'interface mobile-first du site d’une start-up. j'ai utilisé Sass, implémenté des animations CSS et versionné votre projet avec Git et GitHub.Ma tâche principale était d'intégrer une maquette en mobile-first. je disposais des maquettes pour mobile et desktop, du prototype sur Figma, ainsi que des images et textes nécessaires. Cette approche mobile-first ma permis de comprendre l'importance de concevoir des sites web adaptatifs et réactifs.ma appris à mettre en œuvre des animations CSS pour enrichir l'expérience utilisateur du site. Ces animations donneront vie à l'interface et rendront la navigation plus interactive et engageante.L'utilisation de SASS, un pré-processeur CSS, sera essentielle pour étendre les fonctionnalités de base du CSS. Cela m'a  aidé à écrire des styles plus organisés et maintenables.Enfin, j 'ai versionné mon projet avec Git et GitHub, me familiarisant ainsi avec ces outils essentiels pour la gestion et la collaboration sur des projets de développement web."
     },
 	{
 		"id":4,
-        "type": "html",
-		"title": "Riding Cities",
+        "type": ["JavaScript"],
+		"title": "Print it",
 		"pictures": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-        "lienGit":"https://github.com/cyldric2/projet-2.git",
-		"description": " Ce projet est mon introduction aux fondamentaux du langage HTML  J ai travailler sur la mise à jour de la page web d’une association en intégrant de nouveaux éléments conformément aux maquettes fournies. Ma tâche principale était de créer une nouvelle section sur la page web de l'association. Je devait également ajouter un titre et deux boutons pour le téléchargement de plannings.Ce travail me permettra de me familiariser avec l'ajout et la structuration d'éléments en HTML. Bien que le CSS soit déjà présent dans le code, j ai appris à intégrer et adapter ces styles à la nouvelle section que j ai créer.Cela m a  donner une compréhension de base de la manière dont HTML et CSS travaillent ensemble pour créer des pages web.J ai  utilisé Figma pour accéder aux maquettes et Visual Studio Code comme environnement de développement, pour me familiarisait ainsi avec des outils essentiels de développement front-end."
+        "lienGit":"https://github.com/cyldric2/print-it-js.git",
+		"description": "Ce projet m'a initié au langage JavaScript en me chargeant de dynamiser le site internet statique d'une imprimerie en y ajoutant un carrousel interactif.j'ai commencé par explorer les fondamentaux de JavaScript, un langage de programmation clé pour le développement web interactif. j'ai appris à rendre un site web plus dynamique et engageant en intégrant des fonctionnalités interactives telles qu'un carrousel.Ma tâche consisté à mettre à jour le code HTML existant et à ajouter un carrousel en JavaScript.Cela m'a permis de comprendre comment JavaScript interagit avec le HTML et le CSS pour créer des éléments web interactifs.J'ai utilisé Visual Studio Code pour écrire et gérer mon code, et GitHub pour versionner et stocker mon travail.Cette expérience m'a donné un aperçu précieux de la programmation avec JavaScript dans un environnement de développement réel. "
     },
 	{
 		"id":5,
-        "type": ["html","css"],
-		"title": "booki",
+        "type": ["JavaScript"],
+		"title": "Sophie Bluel Architecte d’intérieur",
 		"pictures": 
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-            "lienGit":"https://github.com/cyldric2/booki.git",
-		"description": "Dans ce projet, j ai Créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.ma mission principale sera d'intégrer l'interface responsive de leur site.J ai eu à disposition les maquettes Figma pour mobile, tablette et desktop, ainsi que les images et une note de synthèse sur les spécificités du projet.Jai été amener à créer mes propres composants d'interface avec HTML et CSS afin d'avoir un rendu correspondant à la maquetteCela ma donnais une compréhension plus profonde de la manière dont le code est structuré et stylisé pour répondre aux exigences de design. En travaillant sur ce projet, j ai développer des compétences essentielles en design responsive, assurant que la page d'accueil fonctionne bien sur tous les appareils et tailles d'écran."
+            "lienGit":"https://github.com/cyldric2/Portfolio-architecte-sophie-bluel.git",
+		"description": "Ce projet m'a engagé à créer une page web dynamique pour le site internet d'une architecte d'intérieur en utilisant JavaScript et en communiquant avec une API.Vous travaillerez sur la partie Front-End du site, où j'ai développé la page de présentation des travaux de l'architecte à partir du HTML fourni. Cela impliqua la gestion des événements utilisateurs et la manipulation des éléments du DOM avec JavaScript.J'ai créé également une page de connexion pour l'administrateur du site ainsi qu'une modale permettant d'uploader de nouveaux médias. Ces éléments seront développés from scratch, m' offrant l'opportunité de mettre en pratique mes compétences en JavaScript de manière approfondie.Pour la première fois, j'ai eu accès à un code back-end pour tester les fonctionnalités. J'ai appris  à communiquer avec une API, ce qui est crucial pour les applications web modernes.J'ai utilisé Figma pour accéder aux maquettes, Visual Studio Code pour le développement, et GitHub pour la gestion de version de mon projet."
     },
-
+	 
 	{
 		"id":6,
-        "type": "java",
-		"title": "Appartement ",
+        "type": ["JavaScript","react"],
+		"title": " Kasa",
 		"pictures": 
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-		"lienGit":"",
-		"description": "Ce projet vous amène à travailler sur l'interface mobile-first du site d’une start-up. Vous utiliserez Sass, implémenterez des animations CSS et versionnerez votre projet avec Git et GitHub.Votre tâche principale sera d'intégrer une maquette en mobile-first. Vous disposerez des maquettes pour mobile et desktop, du prototype sur Figma, ainsi que des images et textes nécessaires. Cette approche mobile-first vous permettra de comprendre l'importance de concevoir des sites web adaptatifs et réactifs.Vous apprendrez à mettre en œuvre des animations CSS pour enrichir l'expérience utilisateur du site. Ces animations donneront vie à l'interface et rendront la navigation plus interactive et engageante.L'utilisation de SASS, un pré-processeur CSS, sera essentielle pour étendre les fonctionnalités de base du CSS. Cela vous aidera à écrire des styles plus organisés et maintenables.Enfin, vous versionnerez votre projet avec Git et GitHub, vous familiarisant ainsi avec ces outils essentiels pour la gestion et la collaboration sur des projets de développement web."
+		"lienGit":"https://github.com/cyldric2/kasa.git",
+		"description": "Dans ce projet, j'ai implémenté le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.j'ai travaillé sur la logique de présentation des données et les composants React, une bibliothèque JavaScript populaire pour la création d'interfaces utilisateur.J'ai utilisé React Router pour configurer la navigation entre les différentes pages de l'application. Cela m'a permis de comprendre comment gérer efficacement le routage dans une application web moderne.Le projet sait concentré exclusivement sur le développement front-end, en se basant sur les maquettes fournies et en utilisant des données simulées extraites d'un fichier JSON.J'ai débuté le projet avec Create React App, un outil qui simplifie la configuration initiale d'une application React. J'ai utilisé également Node.js pour exécuter du code JavaScript en dehors du navigateur."
+    },
+	{
+		"id":7,
+        "type": ["JavaScript"],
+		"title": "Nina Carducci ",
+		"pictures": 
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+		"lienGit":"https://github.com/cyldric2/nina.git",
+		"description": "Dans ce projet, j'ai travaillé en tant que développeur freelance pour optimiser le référencement d’un site, en améliorant sa performance et son accessibilité.Ma première tâche était d'identifier les problèmes de chargement et de référencement. J'ai proposé ensuite des recommandations pour améliorer la vitesse de chargement, la structure du code, et le référencement. J'ai appliqué les améliorations qui ont été proposées en modifiant le code du site.Mon objectif était d'améliorer les performances et l'accessibilité du site pour un meilleur référencement sur les moteurs de recherche.J'ai utilisé des outils tels que Lighthouse et Wave.Enfin, j'ai créé un rapport illustrant les résultats avant et après les modifications. Ce rapport comprendra des captures d'écran des audits, ainsi que des explications sur les changements apportés et leur impact sur le référencement et l'accessibilité du site."
+    },
+	
+	{
+		"id":8,
+        "type": ["react"],
+		"title": "724events ",
+		"pictures": 
+			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+		"lienGit":"https://github.com/cyldric2/debug-react.git",
+		"description": "Dans ce projet, je vais debugger et finaliser le développement d'un site one-page.Mon premier objectif sera d'examiner le code existant. J'ai utilisé les Chrome DevTools pour identifier et comprendre les problèmes et bugs signalés dans le site web actuel.Après avoir identifié les problèmes, j'ai été  chargé de résoudre ces bugs et problèmes.Cela impliquait l'utilisation de mes compétences en JavaScript, ainsi que des outils spécifiques à React, comme React Developer Tools.je devais également compléter le cahier de recette. Ce document détaille tous les scénarios de test nécessaires pour vérifier le bon fonctionnement du site, incluant des tests unitaires et fonctionnels.Pour la gestion du projet,j'ai utilisé Yarn comme gestionnaire de packages et Node.js pour exécuter du code JavaScript côté serveur. Ces outils m'a aidé à gérer les dépendances et à exécuter des tests localement.Enfin, j'ai versionné mon travail avec GitHub et utiliserez Visual Studio Code comme éditeur de code pour développer et debugger le site."
     }
-	 
+
 
 ]

@@ -8,14 +8,13 @@ import "./style.scss";
 
 const Accueil = () => (
 
-    <section className="accueil">
+    <section className="accueil" id="présentation">
 
         <figure>
             <img src={ImagCyl} alt="Imag-cyldric" />
-
         </figure>
         <article>
-            <h2>Intégrateur web</h2>
+            <h2>Intégrateur web junior</h2>
             <p> Ancien du bâtiment ,je me suis reconverti dans l informatique</p>
             <p> J ai suivi une formation intégrateur web chez open classroom</p>
             <p> Grace à cela j ai acquis les bases de la programmation ( html ,css,javascript ,react)</p>

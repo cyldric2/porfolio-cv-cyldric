@@ -5,6 +5,12 @@ main {
   flex-direction: column;
   align-items: center;
 }
+h2{
+  font-family: 'Syne';
+    font-weight: 700;
+    font-size: 40px;
+    color:$second;
+}
 
 .ServicesContainer {
   display: flex;
@@ -12,13 +18,7 @@ main {
   align-items: center;
   width: 100%;
   
-  }
-.boxCart {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
-
 
 
 
@@ -33,13 +33,13 @@ main {
   color: #ffffff;
   text-align: center;
   margin: 2px;
-  display: none;
+  display: block;
   /* Hidden by default */
 }
 
 /* La classe "show" est ajoutée aux éléments filtrés */
 .show {
-  display: block;
+  display: none;
 }
 
 /* Style the buttons */
@@ -60,4 +60,58 @@ main {
 .btn.active {
   background-color: #666;
   color: white;
+}
+.modal-container {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+
+}
+
+.modal-container.active {
+  display: flex;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #333333d3;
+}
+
+.modal {
+  max-width: 700px;
+  min-width: 300px;
+  min-height: 300px;
+  max-height: 80%;
+  background: white;
+  border-radius: 20px;
+  position: relative;
+  z-index: 99;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px 100px 30px 100px;
+  overflow: auto;
+
+}
+
+.close-modal {
+  padding: 10px 10px;
+  border: none;
+  font-size: 24px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+  color: black;
+  background-color: white;
+}
+.desactiv {
+  display: none;
+}
+
+.activ {
+  display: flex;
 }
