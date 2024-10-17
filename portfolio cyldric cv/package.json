@@ -1,5 +1,4 @@
-{"homepage": "https://github.com/cyldric2/porfolio-cv-cyldric.git",
-  "name": "portfolio",
+{"name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,8 +26,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "lint": "eslint .eslintrc.js ./src",
-    "format": "prettier ./src --write",
-    "deploy": "gh-pages -d build"
+    "format": "prettier ./src --write"
+   
   },
   "eslintConfig": {
     "extends": [
@@ -56,7 +55,6 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.5.0",
-    "gh-pages": "^6.2.0",
     "prettier": "^2.6.2"
   }
 }
