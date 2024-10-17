@@ -1,0 +1,40 @@
+@import "src/colors.scss";
+
+.header {display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  position: fixed;
+  width: -webkit-fill-available;
+  background-color: white;
+
+  padding: 20px  50px 20px 20px;
+}
+
+.header a {
+  width: 150px;
+  padding: 10px;
+}
+
+.header div {
+  display: flex;
+  flex-direction: row;
+  color: black;
+  align-items: center;
+}
+
+@media (max-width: 700px) {
+  .header img {
+    width: 40%
+  }
+
+  .header a {
+    font-size: 80%;
+    width: auto;
+  }
+
+  .header h1{
+    font-size: 90%;
+    width: 30%;
+    }
+}

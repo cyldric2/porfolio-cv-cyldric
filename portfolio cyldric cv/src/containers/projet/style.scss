@@ -1,3 +1,4 @@
+@import "src/colors.scss";
 
 .titre {
     display: flex;
@@ -42,7 +43,8 @@ display: flex;
     margin: 15px;
     width: 340px;
     height: 340px;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(10, 10, 10, 0) 42%, rgba(4, 4, 4, 0.205) 99.99%, rgba(0, 0, 0, 0.5) 100%);
+    border-color: $second;
+    border: solid 1px;
 }
 
 .lmj-cart img {
@@ -55,17 +57,44 @@ display: flex;
 .lmj-cart button {
     display: flex;
     text-decoration: none;
-    color: white;
+    color:$second;
     font-family: Montserrat;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 26px;
     text-align: left;
-    width: 300px;
-    border-color: transparent;
-    background-color: transparent;
+    border-radius: 20px;
+border-color: $second;
+    border: solid 1px;
+    background-color: white;
     position: relative;
-    z-index: 2;
     bottom: 80px;
     left: 20px;
+    cursor: pointer;
+    padding: 2px 10px 2px 10px;
+}
+.gal-mod img{
+width: 100%;
+}
+.remove-index{
+    z-index: -1;
+
+}
+.dots {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Add a light grey background on mouse-over */
+.dots:hover {
+    background-color: #ddd;
+}
+
+/* Add a dark background to the active button */
+.dot_selection{
+    background-color: #666;
+    color: white;
 }

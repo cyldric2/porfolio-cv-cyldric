@@ -14,8 +14,12 @@ import Contact from "../../containers/contact";
 function Page() {
   function closeModal() {
     const modalContainer = document.querySelector(".modal-container")
+    const carts = document.querySelectorAll(".btn-image")
     modalContainer.classList.toggle("desactive")
     modalContainer.classList.remove("active")
+    carts.forEach(item => {
+      item.classList.remove("remove-index")
+    })
   }
   return (
 
@@ -24,7 +28,7 @@ function Page() {
         <div className="overlay" />
         <div className="modal">
           <button type="button" className="close-modal " onClick={() => closeModal()}>x</button>
-          <div id="gal-mod" />
+          <div id="gal-mod" className="gal-mod" />
         </div>
       </div>
 
