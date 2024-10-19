@@ -37,16 +37,16 @@ function Contact() {
       <form name="contact" ref={form} onSubmit={sendEmail}>
 
         <label htmlFor="name">Votre nom et prénom: </label>
-        <input type="text" name="name" />
+        <input type="text" name="name" id="name" />
 
         <label htmlFor="email">Votre email: </label>
-        <input type="text" name="email" />
+        <input type="text" name="email" id="email" />
 
         <label htmlFor="phone">Votre téléphone: </label>
-        <input type="text" name="phone" />
+        <input type="text" name="phone" id="phone" />
 
         <label htmlFor="message">Message: </label>
-        <textarea type="text" name="message" />
+        <textarea type="text" name="message" id="message" />
 
         <button type="submit" >Envoyé</button>
         <p className='reponse'>
