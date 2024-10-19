@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cyldric2/porfolio-cv-cyldric.git/static/css/main.c86616f4.css",
-    "main.js": "/cyldric2/porfolio-cv-cyldric.git/static/js/main.0abbfed3.js",
+    "main.js": "/cyldric2/porfolio-cv-cyldric.git/static/js/main.adfe1e5f.js",
     "static/js/787.1ed0c42c.chunk.js": "/cyldric2/porfolio-cv-cyldric.git/static/js/787.1ed0c42c.chunk.js",
     "static/media/image cyldric (3).jpg": "/cyldric2/porfolio-cv-cyldric.git/static/media/image cyldric (3).176439616144d54b10e7.jpg",
     "static/media/cv programmeur pdf.pdf": "/cyldric2/porfolio-cv-cyldric.git/static/media/cv programmeur pdf.e56e844a11900eed18dc.pdf",
     "index.html": "/cyldric2/porfolio-cv-cyldric.git/index.html",
     "main.c86616f4.css.map": "/cyldric2/porfolio-cv-cyldric.git/static/css/main.c86616f4.css.map",
-    "main.0abbfed3.js.map": "/cyldric2/porfolio-cv-cyldric.git/static/js/main.0abbfed3.js.map",
+    "main.adfe1e5f.js.map": "/cyldric2/porfolio-cv-cyldric.git/static/js/main.adfe1e5f.js.map",
     "787.1ed0c42c.chunk.js.map": "/cyldric2/porfolio-cv-cyldric.git/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c86616f4.css",
-    "static/js/main.0abbfed3.js"
+    "static/js/main.adfe1e5f.js"
   ]
 }
